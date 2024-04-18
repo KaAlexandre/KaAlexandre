@@ -33,5 +33,5 @@
 ## Onde me encontrar
 
 [![Linkedin](https://img.shields.io/badge/-Kauan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kauan-alexandre-97b763217/)](https://www.linkedin.com/in/kauan-alexandre-97b763217/)
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)
+[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL&label=Gmail)](mailto:SEU-EMAIL)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KaAlexandre)
