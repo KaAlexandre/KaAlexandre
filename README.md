@@ -1,6 +1,6 @@
 ## Sobre mim
 
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🤔 Me chamo Kauan Alexandre, temho 17 anos, moro em Feira de Santana-Ba.
 - 🎓 Estudando...
 - 🌱 Aprendendo mais sobre Java.
 
