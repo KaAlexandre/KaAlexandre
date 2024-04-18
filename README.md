@@ -8,7 +8,7 @@
 
 ## Minhas Skills
 
-**Aplicações e dados**
+**Habilidades**
 
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
@@ -26,12 +26,12 @@
 
 **Ferramentas de desenvolvimento**
 
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=flat-square&logo=intellij-idea&logoColor=white)
 
 <br/>
 ## Onde me encontrar
 
 [![Linkedin](https://img.shields.io/badge/-Kauan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kauan-alexandre-97b763217/)](https://www.linkedin.com/in/kauan-alexandre-97b763217/)
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL&label=Gmail)](mailto:SEU-EMAIL)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KaAlexandre)
+[![Gmail Badge](https://img.shields.io/badge/-atomicroyale334@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mail.google.com/mail/u/0/)](mail.google.com/mail/u/0/)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/KaAlexandre)
