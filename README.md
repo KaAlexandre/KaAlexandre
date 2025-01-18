@@ -2,7 +2,7 @@
 
 - 🤔 Me chamo Kauan Alexandre, tenho 18 anos, moro em Feira de Santana-Ba.
 - 🎓 Estudando...
-- 🌱 Aprendendo mais sobre Java e lógica de programação no geral
+- 🌱 Aprendendo mais sobre Java, lógica de programação, Docker e Spring Boot
 
 **Estudando...**
 
